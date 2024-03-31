@@ -1,0 +1,4 @@
+file:///C:/Program%20Files/Git/ReleaseNotes.html
+https://chat.openai.com/c/2f7ad3ea-f804-4777-b8b4-a01430b18568#pricing
+Descargar git bash: https://git-scm.com/download/win
+Material del curso: https://github.com/blankhall98/Python_R_2024
